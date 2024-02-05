@@ -51,11 +51,14 @@
 
 <div display='flex' justify-content='space-evenly'>  
 <h3 align="left">Conecta conmigo! ➡️ :</h3>
+  <div>
+    
 <p align="left">
 <a href="https://www.linkedin.com/in/kleibert-jose-medina-gomez-19a6a412a/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kleibert-medina" height="30" width="40" /></a>
 </p>
 
   <p align="left">
-<a href="whatsapp://send?phone=+51976963819" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/WhatsApp_icon.png/479px-WhatsApp_icon.png" alt="kleibert-medina" height="30" width="40" /></a>
+<a href="whatsapp://send?phone=+51976963819" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/WhatsApp_icon.png/479px-WhatsApp_icon.png" alt="kleibert-medina" height="40" width="40" /></a>
 </p>
+  </div>
 </div>
