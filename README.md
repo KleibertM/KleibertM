@@ -11,14 +11,14 @@
 </p>
 <br/>
 <div>
-  <h2>proyectos</h2>
+  <h2>Proyectos ❤️</h2>
   <div>
-    <h3>Vamos!! App</h3>
-    <p>Aplicación web dedicada al rubro de transporte</p>
-    <p>Roll: colaborador ne la creacion de vistas, para formularios, sidebar, footer, tablero / dashboard de admin, perfil de usuario, y otras areas, mayormente dedique mas tiendo al front, aunque tuve algunas funciones en el back.</p>
+    <h3>🚐 Vamos!! App </h3>
+    <p>Aplicación web dedicada al rubro de transporte.</p>
+    <p>Roll 💪: colaborador ne la creacion de vistas, para formularios, sidebar, footer, tablero / dashboard de admin, perfil de usuario, y otras areas, mayormente dedique mas tiendo al front, aunque tuve algunas funciones en el back.</p>
     <span> Deploy
       <a href="https://vamos-app.vercel.app/" target="_blank">
-        <img align="center" src="https://vamos-app.vercel.app/assets/logoblanco-epLvWAIB.png" alt="kleibert-medina" height="40" width="40" />
+        <img align="center" src="https://avatars.githubusercontent.com/u/156010694?v=4" borderRadius='50' alt="kleibert-medina" height="40" width="40" />
       </a>
     </span>
     <span>
