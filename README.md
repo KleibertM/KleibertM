@@ -58,7 +58,7 @@
 </p>
 
   <p align="left">
-<a href="https://api.whatsapp.com/send?phone=+51976963819" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/WhatsApp_icon.png/479px-WhatsApp_icon.png" alt="kleibert-medina" height="40" width="40" /></a>
+<a href="https://whatsapp.com/send?phone=+51976963819" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/WhatsApp_icon.png/479px-WhatsApp_icon.png" alt="kleibert-medina" height="40" width="40" /></a>
 </p>
   </div>
 </div>
