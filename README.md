@@ -16,12 +16,12 @@
 <div> 
 <h3>hablidades Tecnicas </he>
 
-<p aling='start'> 
+<p aling='start' gap='4'> 
 <span>Languages: [ "JavaScript", "PHP", "C#" ]</span>
 <span>Front-End: [ "React", "Redux", "Hooks", "Boostrap", "CSS"]</span>
 <span>Database: ["PostgreSQL", "MySQL"]</span>
 <span>Back-End: [ "NodeJs", "Express", "Sequelize"]</span>
-<span>learning: ["Next.js" , "React-Native" ]</span>
+<span>Learning: ["Next.js" , "React-Native" ]</span>
 </p>
 </div>
 
