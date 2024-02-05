@@ -2,7 +2,7 @@
 <h3 align="center">Lima, Perú🌎</h3>
 
 <p align="center">
-  <img src="https://sklc-tinymce-2021.s3.amazonaws.com/comp/2023/04/full-stack%20web%20development_1681290664.png" alt="Kleibert Medina">
+  <img src="https://miro.medium.com/v2/resize:fit:679/1*yw0TnheAGN-LPneDaTlaxw.gif" alt="Kleibert Medina">
 </p>
 
 <h2>Sobre mí</h2>
