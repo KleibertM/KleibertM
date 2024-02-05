@@ -2,7 +2,7 @@
 <h3 align="center">Lima, Perú🌎</h3>
 
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/D4D16AQHPY5hmQNPhEA/profile-displaybackgroundimage-shrink_350_1400/0/1686944650114?e=1710979200&v=beta&t=Il_yRv2Dvj00K4103BUDWG9iRB9C5o2oR6sQ8ElSZTM" alt="Kleibert Medina">
+  <img src="https://sklc-tinymce-2021.s3.amazonaws.com/comp/2023/04/full-stack%20web%20development_1681290664.png" alt="Kleibert Medina">
 </p>
 
 <h2>Sobre mí</h2>
@@ -32,5 +32,5 @@ const KleiKode = {
 
 <h3 align="left">Conecta conmigo! :</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/kleibert-jose-medina-gomez-19a6a412a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kleibert-medina" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kleibert-jose-medina-gomez-19a6a412a/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kleibert-medina" height="30" width="40" /></a>
 </p>
