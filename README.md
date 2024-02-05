@@ -13,21 +13,17 @@
 
 <br/>
 
+<div> 
+<h3>hablidades Tecnicas </he>
 
-js
-const KleiKode = {
-  pronouns: 'he'
-  code: {
-    languages: [ "JavaScript", "PHP", "C#" ],
-    database: ["PostgreSQL", "MySQL"],
-    backEnd: [ "NodeJs", "Express", "Sequelize"],
-    frontEnd: [ "React", "Redux", "Hooks", "Sass"],
-    learning: ["Next.js" , "React-Native" ]
-  },
-  contact: {
-    email: "kleibertmedina@gmail.com"
-  }
-};
+<p aling='start'> 
+<span>Languages: [ "JavaScript", "PHP", "C#" ]</span>
+<span>Front-End: [ "React", "Redux", "Hooks", "Boostrap", "CSS"]</span>
+<span>Database: ["PostgreSQL", "MySQL"]</span>
+<span>Back-End: [ "NodeJs", "Express", "Sequelize"]</span>
+<span>learning: ["Next.js" , "React-Native" ]</span>
+</p>
+</div>
 
 
 <h3 align="left">Conecta conmigo! :</h3>
