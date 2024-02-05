@@ -18,13 +18,13 @@
     <p>Roll 💪: colaborador ne la creacion de vistas, para formularios, sidebar, footer, tablero / dashboard de admin, perfil de usuario, y otras areas, mayormente dedique mas tiendo al front, aunque tuve algunas funciones en el back.</p>
     <span> Deploy
       <a href="https://vamos-app.vercel.app/" target="_blank">
-        <img align="center" src="https://avatars.githubusercontent.com/u/156010694?v=4" border-radius='50%' alt="kleibert-medina" height="40" width="40" />
+        <img align="center" src="https://avatars.githubusercontent.com/u/156010694?v=4" style="border-radius: 50%;" alt="kleibert-medina" height="40" width="40" />
       </a>
     </span>
     <span>
       GitHub
       <a href="https://github.com/VamosONG" target="_blank">
-        <img align="center" src="https://avatars.githubusercontent.com/u/156010694?v=4" alt="kleibert-medina" height="40" width="40" />
+        <img align="center" src="https://avatars.githubusercontent.com/u/156010694?v=4" style="border-radius: 50%;" alt="kleibert-medina" height="40" width="40" />
     </span>
   </div>
   <div>
