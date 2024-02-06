@@ -53,7 +53,7 @@
 <h3 align="left">Conecta conmigo! ➡️ :</h3>
   <div>
 <p >
-<a href="mailto:kleibertmedina@gmail.com" target="_blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/016/716/465/original/gmail-icon-free-png.png" alt="kleibert-medina" height="30" width="40" /></a>
+<a href="mailto:kleibertmedina@gmail.com" target="_blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/016/716/465/original/gmail-icon-free-png.png" alt="kleibert-medina" height="40" width="40" /></a>
 </p>
     
 <p >
