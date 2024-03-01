@@ -39,7 +39,7 @@
 <p aling='start' gap='4'> 
 <span>⚡ Languages: "JavaScript", "PHP", "C#"</span>
  <br/> 
-<span>⚡ Front-End: "React", "Redux", "Hooks", "Boostrap", "CSS"</span>
+<span>⚡ Front-End: "React", "Redux", "Hooks", "Boostrap", "CSS", "Chakra UI"</span>
   <br/>
 <span>⚡ Database: "PostgreSQL", "MySQL"</span>
   <br/>
